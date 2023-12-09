@@ -1,5 +1,3 @@
-Certainly! Here's an improved and refined version of your GitHub README profile:
-
 ---
 
 ### 👋 Hello, I'm Ghulam!
@@ -14,7 +12,7 @@ In my pursuit of knowledge, I've delved into various aspects of data, starting f
 
 If you share a similar passion for data or have valuable insights to exchange, feel free to reach out to me. I am open to collaboration, information sharing, and exploring job opportunities in the data science realm.
 
-- 📧 Email: ghulamweb@gmail.com
+- 📧 Email: ghulamweb@gmail.com or ghulamsholih@gmail.com
 - 💼 LinkedIn: [Ahmad Ghulam Sholih](https://www.linkedin.com/in/ahmad-ghulam-sholih-721944262/)
 
 #### 📚 What's Next:
